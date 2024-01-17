@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Craig Terry and my GitHub alias is crgtrr@gmail.com.
+My name is Craig Terry and my GitHub alias is crgtrry.
 
 ## Optional Next Steps
 
